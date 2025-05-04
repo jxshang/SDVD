@@ -1,4 +1,4 @@
-# SDVD: SDVD: Self-Supervised Dual-View Modeling of User and Cascade Dynamics for Information Diffusion Prediction
+# SDVD: Self-Supervised Dual-View Modeling of User and Cascade Dynamics for Information Diffusion Prediction
 
 This project contains the source code for the work: **SDVD: Self-Supervised Dual-View Modeling of User and Cascade Dynamics for Information Diffusion Prediction**
 
