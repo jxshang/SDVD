@@ -31,4 +31,4 @@ see requirements.txt
 ## Contact
 
 + shangjiaxing@gmail.com (Jiaxing Shang)
-+ yoyoking227@gmail.com (Haoyu Xiong)
++ xionghaoyu25@foxmail.com (Haoyu Xiong)
