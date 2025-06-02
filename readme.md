@@ -21,7 +21,7 @@ Please kindly give us a star if you find this code helpful.
 
 python run.py --data_name android --n_interval 14     
 python run.py --data_name christianity     
-python run.py --data_name douban
+python run.py --data_name douban  
 python run.py --data_name twitter --hidden_dim 128   
 
 ## Requirements
