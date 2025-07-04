@@ -4,7 +4,9 @@ This project contains the source code for the work: **SDVD: Self-Supervised Dual
 
 **Authors**: Haoyu Xiong, Jiaxing Shang, Fei Hao, Dajiang Liu, Geyong Min
 
-Please kindly give us a star if you find this code helpful.
+**Reference**: Haoyu Xiong, Jiaixng Shang*, Fei Hao, Dajiang Liu, Geyong Min. SDVD: Self-Supervised Dual-View Modeling of User and Cascade Dynamics for Information Diffusion Prediction. Knowledge-Based Systems, 2025 (326):  114005.
+
+Please kindly cite the above reference and give us a star if you find this code helpful.
 
 ## Table of Contents
 
